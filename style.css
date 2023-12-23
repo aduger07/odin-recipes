@@ -1,0 +1,38 @@
+
+* {
+    font-family: "Franklin Gothic Medium", Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+li {
+    font-style: italic;
+    font-size: 24px
+}
+
+h1 {
+    font-size: 48px;
+    background-color: maroon;
+    color: white;
+}
+
+.lasagna {
+    background-color: red;
+    color: white;
+
+}
+
+.background {
+    background-color: black;
+
+}
+
+.garlic-bread,
+.lemon {
+    background-color: green;
+    color: white;
+}
+
+.lemon a {
+    color: yellow;
+}
+
